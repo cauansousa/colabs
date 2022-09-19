@@ -1,3 +1,3 @@
-# feature-extraction
+# Colabs and test files
 
 HAVE TO CREATE DIRECTORY "IMAGES" "RESULTS" "MASK"
